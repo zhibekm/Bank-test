@@ -40,6 +40,6 @@ Once you send your money you will see confermation in right corner of your page 
 
 And in page of List you can see all your transactions, you can also see exact time and data of your actions and you may also delete them.
 
-<img src="https://github.com/zhibekm/Bank-test/blob/main/bank4.png"/>
+<img src="https://github.com/zhibekm/Bank-test/blob/main/list.png"/>
 
 
