@@ -1,0 +1,14 @@
+.list {
+    overflow: scroll;
+    min-height: calc(100vh - 70px);
+}
+
+.heading {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.loading {
+    display: block;
+    margin: 40px auto 0 auto;
+}

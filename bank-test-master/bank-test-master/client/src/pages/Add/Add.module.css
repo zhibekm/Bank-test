@@ -1,0 +1,13 @@
+.heading {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.form {
+    margin: 40px auto 0 auto;
+    width: 600px;
+}
+
+.formMedia {
+    width: 100%;
+}
