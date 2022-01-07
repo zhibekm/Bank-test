@@ -5,4 +5,4 @@ Project contains both backend and frontend, there is registration and autharizat
 
 Link: <a href="https://banktest-app.herokuapp.com/" target="_blank">Link to project</a>
 
-https://github.com/zhibekm/Bank-test/blob/main/Screenshot%202022-01-07%20122213.png
+<img src="https://github.com/zhibekm/Bank-test/blob/main/Screenshot%202022-01-07%20122213.png"/>
